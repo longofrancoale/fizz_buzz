@@ -1,3 +1,6 @@
 # Fizz Buzz
 
-To compile:    rustc fizz_buzz.rs
+To compile:
+```
+rustc fizz_buzz.rs
+```
